@@ -4,3 +4,5 @@ line 2
 line 3
 line 4
 
+ftc-8742-test 
+new line 1
