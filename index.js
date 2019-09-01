@@ -8,5 +8,5 @@ var Routes = require('./route');
 server.route(Routes);
 
 server.start(function() {
-    console.log('Server test running at:', server.info.uri);
+    console.log('Server 1 test running at:', server.info.uri);
 })
