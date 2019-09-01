@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "0.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^6.5.1"
+  }
+}
