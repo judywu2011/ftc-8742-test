@@ -14,6 +14,6 @@
   "author": "me",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^6.5.1"
+    "hapi": "^18.1.0"
   }
 }
